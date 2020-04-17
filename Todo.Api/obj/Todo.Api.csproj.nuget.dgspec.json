@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\elbra\\Documents\\AMIS3610\\fisher-bookstore\\Todo.Api\\Todo.Api.csproj": {}
+    "c:\\Users\\elbra\\Documents\\AMIS3610\\fisher-bookstore\\Todo.Api\\Todo.Api.csproj": {}
   },
   "projects": {
-    "C:\\Users\\elbra\\Documents\\AMIS3610\\fisher-bookstore\\Todo.Api\\Todo.Api.csproj": {
+    "c:\\Users\\elbra\\Documents\\AMIS3610\\fisher-bookstore\\Todo.Api\\Todo.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\elbra\\Documents\\AMIS3610\\fisher-bookstore\\Todo.Api\\Todo.Api.csproj",
+        "projectUniqueName": "c:\\Users\\elbra\\Documents\\AMIS3610\\fisher-bookstore\\Todo.Api\\Todo.Api.csproj",
         "projectName": "Todo.Api",
-        "projectPath": "C:\\Users\\elbra\\Documents\\AMIS3610\\fisher-bookstore\\Todo.Api\\Todo.Api.csproj",
+        "projectPath": "c:\\Users\\elbra\\Documents\\AMIS3610\\fisher-bookstore\\Todo.Api\\Todo.Api.csproj",
         "packagesPath": "C:\\Users\\elbra\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\elbra\\Documents\\AMIS3610\\fisher-bookstore\\Todo.Api\\obj\\",
+        "outputPath": "c:\\Users\\elbra\\Documents\\AMIS3610\\fisher-bookstore\\Todo.Api\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\elbra\\AppData\\Roaming\\NuGet\\NuGet.Config"

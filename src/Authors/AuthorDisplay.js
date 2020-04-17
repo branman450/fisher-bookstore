@@ -6,8 +6,7 @@ export function AuthorsDisplay(props) {
         <div className="display">
             <h3>Authors</h3>
             <ListGroup>
-                {props.authors.map(a => ( <ListGroup.Item action variant = "blue">Author: {a.name}</ListGroup.Item>
-                ))}
+                {props.authors.map(a => ( <ListGroup.Item action variant = "blue">Author: {a.name}</ListGroup.Item>))}
                 </ListGroup>
         </div>
     );
